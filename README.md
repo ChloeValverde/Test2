@@ -4,7 +4,7 @@
 </h1>
 
 <h1 align="center">
- <img src=""C:\Users\mei8y\OneDrive\Pictures\bannerGif.gif"" </img>
+ <img src="C:\Users\mei8y\OneDrive\Pictures\bannerGif.gif" </img>
 </h1>
 
 <p align="center">
