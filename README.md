@@ -8,8 +8,7 @@
 </h1>
 
 <p align="center">
-  <iframe src="https://giphy.com/embed/fveKCnZRN7aOrtWNfj.gif" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/IntoAction-fveKCnZRN7aOrtWNfj">via GIPHY</a></p></iframe>
-  
+
 </p>
 
 ![](https://i.imgur.com/qJVEWkg.gif)
