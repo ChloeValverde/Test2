@@ -4,5 +4,5 @@
 </h1>
 
 <p align="center">
-  <img src="https://imgur.com/qJVEWkg.gif">
+  <img src="https://imgur.com/gallery/qJVEWkg.gif">
 </p>
