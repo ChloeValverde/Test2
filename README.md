@@ -8,3 +8,7 @@
 </p>
 
 ![](https://i.imgur.com/qJVEWkg.gif)
+
+<p align="center">
+ <img src='images/banner.jpg' alt="banner"></img>
+</p>
