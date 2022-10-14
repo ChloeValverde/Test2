@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/qPRcCg4.gif">
+  <img src="C:\Users\mei8y\OneDrive\Pictures\banner.jpg">
 </p>
 
 ![](https://i.imgur.com/qJVEWkg.gif)
