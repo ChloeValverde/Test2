@@ -11,5 +11,5 @@
 ![](https://i.imgur.com/qJVEWkg.gif)
 
 <p align="center">
- <img src='[relative path]' alt="banner"></img>
+ <img src="(https://giphy.com/gifs/macys-independence-day-4th-of-july-1iqj5MXG4zqdzXsBJD)" alt="banner"></img>
 </p>
