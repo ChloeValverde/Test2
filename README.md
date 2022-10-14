@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <mp4 src="https://i.imgur.com/zyDotn2.mp4">
+  <mp4 src="https://imgur.com/zyDotn2.gif">
 </p>
 
 ![](https://i.imgur.com/qJVEWkg.gif)
