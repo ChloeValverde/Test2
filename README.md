@@ -31,7 +31,7 @@ What/Why: Texas is an immense state full of varying ideologies and people. With 
   
  <p> align="center"> Final Report 10/16/2022 </p>
 
-<pre>At the outset, we had to find many trusted sources since political data tends to be faked. While they were not hard to find, it was tricky to gather the data in a concise way since there was an overabundance of data that we did not actually need. Interestingly, one of the datasets was obtained by one of our team members contacting the secretary of state and they agreed to share some of the voting datasets with us. 
+At the outset, we had to find many trusted sources since political data tends to be faked. While they were not hard to find, it was tricky to gather the data in a concise way since there was an overabundance of data that we did not actually need. Interestingly, one of the datasets was obtained by one of our team members contacting the secretary of state and they agreed to share some of the voting datasets with us. 
 
 After the datasets were acquired, we quickly went to cleaning and sorting them through jupyter notebook, pgadmin, and leaflet for proper graphing and plotting. Once this was done, we went to another source called __ to map out the points onto a map of Texas.  This shows that __. In doing this we learned that not only is Texas __, but it also __. 
 
@@ -42,7 +42,7 @@ Following this, the dashboard was loaded onto a platform called Heroku, through 
 
 Finally at the end of this project we were able to gather that Texas _
 
-//Personal insights/learned: Throughout this project we have learned an ample amount of data relating to Texas voting statistics. For one, while the data is stored in mass excel forms, it is not very clean for the average reader to understand. It must be redone in order to show a clear and concise retelling of the data.</pre>
+//Personal insights/learned: Throughout this project we have learned an ample amount of data relating to Texas voting statistics. For one, while the data is stored in mass excel forms, it is not very clean for the average reader to understand. It must be redone in order to show a clear and concise retelling of the data.
 
   
 <br></br>
