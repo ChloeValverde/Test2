@@ -19,7 +19,7 @@
 
 
 
-<h1> <p align="center">  Texas Voting Database  </p> <h1>
+<h1> <p align="center">  Texas Voting Database  </p> </h1>
 
 Proposal: We are making a database for Texans to reference for information on voting statistics in Texas. This database will include a map with voting locations and general stats about Texas voters. 
 
@@ -69,6 +69,12 @@ This was done through This dashboard shows that the __. **talk about the graphs 
 <li>https://latinamericanscience.carto.com/me?utm_source=Footer_Link&utm_medium=referral&utm_campaign=Embed_v1&utm_content=latinamericanscience</li>
 <li>https://gis-txdot.opendata.arcgis.com/datasets/9b2eb7d232584572ad53bad41c76b04d_0/explore?location=31.007051%2C-100.049428%2C6.43</li>
 </ul>
+
+
+   
+    
+
+
 
 
    
