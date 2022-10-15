@@ -47,7 +47,7 @@ Finally at the end of this project we were able to gather that Texas _
   
 <br></br>
 
-
+ 
 <h6>Data Sets:</h6>
 <ul>
  <li>https://www.votetexas.gov/voting/where.html</li>
