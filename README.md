@@ -1,37 +1,43 @@
-<p align="center"> Proposal: What are these plants and their stats?  </p>
-
-<p align="center"> Group Name: The below 6ft ones </p>
+<p align="center">Proposal: What are these plants and will they thrive? </p>
 
 
+<p align="center"> Group Name: The Below 6ft Ones</p>
+
+
+
+	For this project, we will create an image recognition program that will be able to recognize and learn the difference between the flower segments and then provide information on the flowers. Specifically we will concentrate on flower detection, once detected add a database to determine  the detected flower then provide the following information: poisonous(yes/no) and flower features. 
+
+For this specific project we decided on using a convolutional neural network (CNN) model. What is a CNN? It is a class of neural networks that specializes in processing data that has a grid-like topology, such as an image. CNN is typically used for image processing, classification, segmentation and also for other auto correlated data. The main characteristic about convolutional neural network is that it has convolution layer, which uses filters to almost like twist or convolute an area in input data to smaller area, detecting important or specific part within the area.  It is because of these aspects we feel like CNN would be the most fit for out project.
+
+The target audience: Botanists and horticulturists so they can easily identify the flowers they want to research on. In addition to this, some side target audiences are florists, home gardeners, hikers, and pet owners so their pets won't eat the poisonous plants.
+
+	
 Team members: Matthew Belcher, Kristal Concepcion, Jasmine Leal, Chloe Valverde
 
 
-For this project, we will create an image recognition program that will be able to recognize and learn the difference between the plant segments and then provide information on the four different flowers. The target audience are botanists and horticulturists so they can easily identify the flowers they want to research on. In addition to this, some side target audiences are florists, home gardeners, hikers, and pet owners so their pets won't eat the poisonous plants. 
-	
+<ul>Research Questions to answer </ul>
 
-<ul>Research Questions to answer</ul>
-
-<li>How accurately can we predict the flower type</li>
-<li>Can we determine whether they are seasonal or year round</li>
-<li>What are the flower’s requirements for growing</li>
-<li>What region does the flower originate from</li>
+<li>How accurately can we predict the flower type </li>
 <li>Can we determine if they are poisonous </li>
-<li>What is the flower endangered status</li>
-
+<li>What is the flower endangered status </li>
+<li>What kind of model we will use/how to improve our model (adding different features) </li>
 
 <ul>Software to be used</ul>
 
-<li>Python Pandas</li>
-<li>Scikit-learn</li>
-<li>Python Matplotlib</li>
-<li>MongoDB Database</li>
+<li>Python Pandas </li>
+<li>Scikit-learn </li>
+<li>Python Matplotlib </li>
+<li>MongoDB Database </li>
 
 
-Datasets to be used: 
-<li>https://www.kaggle.com/code/aderezapahlevi/starter-flowers-recognition-7123e64e-8/data</li>
-<li>https://www.kaggle.com/code/tarunpaparaju/plant-pathology-2020-eda-models/notebook</li>
+<ul>Datasets to be used</ul>
 
-<li>https://www.kaggle.com/code/rajmehra03/flower-recognition-cnn-keras/notebook</li>
+<li>https://www.kaggle.com/code/aderezapahlevi/starter-flowers-recognition-7123e64e-8/data </li>
+<li>https://www.kaggle.com/code/tarunpaparaju/plant-pathology-2020-eda-models/notebook </li>
+<li>https://www.kaggle.com/code/rajmehra03/flower-recognition-cnn-keras/notebook </li>
 
+<ul>Github repo</ul>
+
+<li>https://github.com/kconcepcion/flower-identifier-and-almanac </li>
 
 
