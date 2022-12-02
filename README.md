@@ -8,7 +8,7 @@
 
 
 
-<p style="margin-left:200px; margin-right:50px;">For this project, we will create an image recognition program that will be able to recognize and learn the difference between the flower segments and then provide information on the flowers. Specifically we will concentrate on flower detection, once detected add a database to determine the detected flower then provide the following information: poisonous(yes/no) and flower features. </p>
+<p class="indent">For this project, we will create an image recognition program that will be able to recognize and learn the difference between the flower segments and then provide information on the flowers. Specifically we will concentrate on flower detection, once detected add a database to determine the detected flower then provide the following information: poisonous(yes/no) and flower features. </p>
 
   For this specific project we decided on using a convolutional neural network (CNN) model. What is a CNN? It is a class of neural networks that specializes in processing data that has a grid-like topology, such as an image. CNN is typically used for image processing, classification, segmentation and for other auto correlated data. The main characteristic about convolutional neural network is that it has convolution layer, which uses filters to almost like twist or convolute an area in input data to smaller area, detecting important or specific part within the area.  It is because of these aspects we feel like CNN would be the most fit for out project.
 
