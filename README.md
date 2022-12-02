@@ -38,7 +38,6 @@ Team members: Matthew Belcher, Kristal Concepcion, Jasmine Leal, Chloe Valverde
 <li>MongoDB Database </li>
 </p>
 
-##
 <p>
 
 <ul>Datasets to be used</ul>
@@ -46,6 +45,7 @@ Team members: Matthew Belcher, Kristal Concepcion, Jasmine Leal, Chloe Valverde
 <li>https://www.kaggle.com/code/aderezapahlevi/starter-flowers-recognition-7123e64e-8/data </li>
 <li>https://www.kaggle.com/code/tarunpaparaju/plant-pathology-2020-eda-models/notebook </li>
 <li>https://www.kaggle.com/code/rajmehra03/flower-recognition-cnn-keras/notebook </li>
+<li>https://www.kaggle.com/datasets/hanselliott/toxic-plant-classification/code</li>
 </p>
 
 
