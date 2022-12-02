@@ -20,7 +20,7 @@ Team members: Matthew Belcher, Kristal Concepcion, Jasmine Leal, Chloe Valverde
 
 
 <p>
-<ul>Research Questions to answer </ul>
+<u <h3>Research Questions to answer </h3></ul>
 
 <li>How accurately can we predict the flower type </li>
 <li>Can we determine if they are poisonous </li>
