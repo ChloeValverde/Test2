@@ -1,4 +1,14 @@
-<p align="center" >Proposal: What are these plants and will they thrive? </p> 
+<style>
+h1{
+    text-align:center;
+}
+</style>
+
+<body>
+    <h1> Proposal: What are these plants and will they thrive </h1>
+</body>
+
+Proposal: What are these plants and will they thrive? </p> 
 
 
 <p align="center"> Group Name: The Below 6ft Ones</p>
