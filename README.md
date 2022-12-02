@@ -19,14 +19,16 @@ Team members: Matthew Belcher, Kristal Concepcion, Jasmine Leal, Chloe Valverde
 
 
 
-
+<p>
 <ul>Research Questions to answer </ul>
 
 <li>How accurately can we predict the flower type </li>
 <li>Can we determine if they are poisonous </li>
 <li>What is the flower endangered status </li>
 <li>What kind of model we will use/how to improve our model (adding different features) </li>
+</p>
 
+<p>
 
 <ul>Software to be used</ul>
 
@@ -34,16 +36,23 @@ Team members: Matthew Belcher, Kristal Concepcion, Jasmine Leal, Chloe Valverde
 <li>Scikit-learn </li>
 <li>Python Matplotlib </li>
 <li>MongoDB Database </li>
+</p>
 
+<p>
 
 <ul>Datasets to be used</ul>
 
 <li>https://www.kaggle.com/code/aderezapahlevi/starter-flowers-recognition-7123e64e-8/data </li>
 <li>https://www.kaggle.com/code/tarunpaparaju/plant-pathology-2020-eda-models/notebook </li>
 <li>https://www.kaggle.com/code/rajmehra03/flower-recognition-cnn-keras/notebook </li>
+</p>
+
+
+<p>
 
 <ul>Github repo</ul>
 
 <li>https://github.com/kconcepcion/flower-identifier-and-almanac </li>
+</p>
 
 
