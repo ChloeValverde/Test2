@@ -5,6 +5,7 @@
 
 <p align="left"> Group Name: The Below 6ft Ones</p>
 
+Team members: Matthew Belcher, Kristal Concepcion, Jasmine Leal, Chloe Valverde
 
 
 
@@ -15,7 +16,6 @@ For this project, we will create an image recognition program that will be able 
   The target audience: Botanists and horticulturists so they can easily identify the flowers they want to research on. In addition to this, some side target audiences are florists, home gardeners, hikers, and pet owners so their pets won't eat the poisonous plants.
 
 	
-Team members: Matthew Belcher, Kristal Concepcion, Jasmine Leal, Chloe Valverde
 
 
 ##
